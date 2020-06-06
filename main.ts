@@ -33,4 +33,4 @@ makerbit.onIrButton(IrButton.Number_2, IrButtonAction.Pressed, function () {
 makerbit.onIrButton(IrButton.Number_9, IrButtonAction.Pressed, function () {
     basic.showNumber(9)
 })
-makerbit.connectIrReceiver(DigitalPin.P0)
+makerbit.connectIrReceiver(DigitalPin.P2)
