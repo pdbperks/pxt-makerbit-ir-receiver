@@ -3,7 +3,7 @@
 
 const enum IrButton {
   //% block="On"
-  Any = 0xA2,
+  On = 0xA2,
   //% block="Any"
   Up = -1,
   //% block="Menu"
